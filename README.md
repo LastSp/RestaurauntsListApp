@@ -1,3 +1,3 @@
 # RestaurauntsListApp
 
-Example of using TableView with RxSwift
+Example of using UITableView with RxSwift
